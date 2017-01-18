@@ -1,0 +1,21 @@
+/*body {
+	background-color: silver;
+}*/
+.red{
+	color: tomato;
+}
+.blue {
+	color: lightblue
+}
+
+.gold {
+	color: gold
+}
+.wrapper{
+	width: 100px;
+	height: 100px;
+	background-color: tomato;
+	padding: 5px;
+	color: #ffffff;
+	margin: 5px;
+}
